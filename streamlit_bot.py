@@ -9,7 +9,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 import os
 
-st.set_page_config(page_title="Document Genie", layout="wide")
+st.set_page_config(page_title="DrYash", layout="wide")
 
 st.markdown("""
 ## Welcome to the Dr.Yasobant's AI Research Assistant
