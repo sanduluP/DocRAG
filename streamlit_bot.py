@@ -12,9 +12,11 @@ import os
 st.set_page_config(page_title="Document Genie", layout="wide")
 
 st.markdown("""
-## Document Genie: Get instant insights from your Documents
+## Welcome to the Dr.Yasobant's AI Research Assistant
 
-This chatbot is built using the Retrieval-Augmented Generation (RAG) framework, leveraging Google's Generative AI model Gemini-PRO. It processes uploaded PDF documents by breaking them down into manageable chunks, creates a searchable vector store, and generates accurate answers to user queries. This advanced approach ensures high-quality, contextually relevant responses for an efficient and effective user experience.
+Explore and gain instant insights from the research work of Dr. Yasobant, Assistant Professor at the Indian Institute of Public Health Gandhinagar (IIPHG), India. This intelligent chatbot is designed to provide precise, contextually relevant responses based on Dr. Yasobant’s extensive body of work in public health, reflecting his expertise and contributions.
+
+Using a powerful Retrieval-Augmented Generation (RAG) framework, our system processes Dr. Yasobant’s research papers by breaking them down into manageable chunks and creating a searchable vector store for efficient, high-quality responses. Ask any questions related to his research, and the assistant will provide detailed, informative answers rooted in his published studies.
 
 ### How It Works
 
